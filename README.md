@@ -4,7 +4,7 @@ This repository implements **automatic differentiation and backpropagation from 
 
 ---
 
-## 📦 Files in the Repository
+##  Files in the Repository
 
 ### `value.py`
 A minimal **autodiff engine** that builds a computation graph and performs **reverse-mode backpropagation**.
@@ -33,5 +33,5 @@ A training script that:
 
 ---
 
-## 🚀 Run the Code
+##  Run the Code
 
